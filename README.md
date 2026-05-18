@@ -20,7 +20,7 @@ Each project folder contains:
 - A `README.md` with the full case study — business context, schema, findings and recommendation
 - A `schema/` folder with table creation scripts
 - A `queries/` folder with individual `.sql` files, one per business question
-- A `sample_output/` folder with screenshots of actual query results
+- A `output/` folder with screenshots of actual query results
 
 ---
 
