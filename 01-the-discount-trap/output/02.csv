@@ -1,0 +1,5 @@
+﻿buyer_segment,customer_count,total_gross_revenue,total_net_revenue,total_discounts,avg_disc_rate_pct,total_cogs,gross_profit,gross_margin_pct
+Full-Price,982,1889125.91,1873885.2,15240.71,0.81,1133616.01,740269.19,39.5
+Mixed,172,361643.89,344789.56,16854.33,4.66,216414.3,128375.26,37.23
+Promo-Heavy,31,26673.65,24605.45,2068.2,7.75,16269.88,8335.57,33.88
+Promo-Only,15,4042.39,3453.21,589.18,14.58,2381.66,1071.55,31.03

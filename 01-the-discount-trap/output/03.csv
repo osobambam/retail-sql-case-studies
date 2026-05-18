@@ -1,0 +1,860 @@
+﻿customer_id,numOfOrders,firstValue,lastValue,drift,promoDependence
+68,3,0,0.67,0.67,Increasing Promo Dependent
+530,4,0,0.5,0.5,Increasing Promo Dependent
+455,7,0,0.43,0.43,Increasing Promo Dependent
+408,13,0,0.38,0.38,Increasing Promo Dependent
+330,3,0,0.33,0.33,Increasing Promo Dependent
+240,3,0,0.33,0.33,Increasing Promo Dependent
+310,3,0,0.33,0.33,Increasing Promo Dependent
+144,3,0,0.33,0.33,Increasing Promo Dependent
+175,3,0,0.33,0.33,Increasing Promo Dependent
+199,6,0,0.33,0.33,Increasing Promo Dependent
+212,3,0,0.33,0.33,Increasing Promo Dependent
+456,3,0,0.33,0.33,Increasing Promo Dependent
+445,6,0,0.33,0.33,Increasing Promo Dependent
+463,3,0,0.33,0.33,Increasing Promo Dependent
+549,3,0,0.33,0.33,Increasing Promo Dependent
+596,3,0,0.33,0.33,Increasing Promo Dependent
+645,3,0,0.33,0.33,Increasing Promo Dependent
+646,3,0,0.33,0.33,Increasing Promo Dependent
+741,3,0,0.33,0.33,Increasing Promo Dependent
+779,3,0,0.33,0.33,Increasing Promo Dependent
+803,3,0,0.33,0.33,Increasing Promo Dependent
+842,6,0,0.33,0.33,Increasing Promo Dependent
+852,3,0,0.33,0.33,Increasing Promo Dependent
+899,3,0,0.33,0.33,Increasing Promo Dependent
+920,6,0,0.33,0.33,Increasing Promo Dependent
+924,6,0,0.33,0.33,Increasing Promo Dependent
+1081,3,0,0.33,0.33,Increasing Promo Dependent
+1128,6,0,0.33,0.33,Increasing Promo Dependent
+1172,3,0,0.33,0.33,Increasing Promo Dependent
+1193,6,0,0.33,0.33,Increasing Promo Dependent
+1184,7,0,0.29,0.29,Increasing Promo Dependent
+1008,7,0,0.29,0.29,Increasing Promo Dependent
+1014,7,0,0.29,0.29,Increasing Promo Dependent
+663,7,0,0.29,0.29,Increasing Promo Dependent
+494,17,0,0.29,0.29,Increasing Promo Dependent
+1190,11,0,0.27,0.27,Increasing Promo Dependent
+1173,8,0,0.25,0.25,Increasing Promo Dependent
+1089,8,0,0.25,0.25,Increasing Promo Dependent
+1059,4,0,0.25,0.25,Increasing Promo Dependent
+922,8,0,0.25,0.25,Increasing Promo Dependent
+927,4,0,0.25,0.25,Increasing Promo Dependent
+900,4,0,0.25,0.25,Increasing Promo Dependent
+544,4,0,0.25,0.25,Increasing Promo Dependent
+511,4,0,0.25,0.25,Increasing Promo Dependent
+652,4,0,0.25,0.25,Increasing Promo Dependent
+667,4,0,0.25,0.25,Increasing Promo Dependent
+692,8,0,0.25,0.25,Increasing Promo Dependent
+770,8,0,0.25,0.25,Increasing Promo Dependent
+771,4,0,0.25,0.25,Increasing Promo Dependent
+644,4,0,0.25,0.25,Increasing Promo Dependent
+854,4,0,0.25,0.25,Increasing Promo Dependent
+879,4,0,0.25,0.25,Increasing Promo Dependent
+797,4,0,0.25,0.25,Increasing Promo Dependent
+828,4,0,0.25,0.25,Increasing Promo Dependent
+208,12,0,0.25,0.25,Increasing Promo Dependent
+219,4,0,0.25,0.25,Increasing Promo Dependent
+185,8,0,0.25,0.25,Increasing Promo Dependent
+138,12,0,0.25,0.25,Increasing Promo Dependent
+64,4,0,0.25,0.25,Increasing Promo Dependent
+65,16,0,0.25,0.25,Increasing Promo Dependent
+101,12,0,0.25,0.25,Increasing Promo Dependent
+268,4,0,0.25,0.25,Increasing Promo Dependent
+423,8,0,0.25,0.25,Increasing Promo Dependent
+316,13,0,0.23,0.23,Increasing Promo Dependent
+174,22,0,0.23,0.23,Increasing Promo Dependent
+554,13,0,0.23,0.23,Increasing Promo Dependent
+553,9,0,0.22,0.22,Increasing Promo Dependent
+625,9,0,0.22,0.22,Increasing Promo Dependent
+474,9,0,0.22,0.22,Increasing Promo Dependent
+469,23,0,0.22,0.22,Increasing Promo Dependent
+324,9,0,0.22,0.22,Increasing Promo Dependent
+1104,9,0,0.22,0.22,Increasing Promo Dependent
+1115,9,0,0.22,0.22,Increasing Promo Dependent
+761,14,0,0.21,0.21,Increasing Promo Dependent
+762,19,0,0.21,0.21,Increasing Promo Dependent
+750,15,0,0.2,0.2,Increasing Promo Dependent
+708,5,0,0.2,0.2,Increasing Promo Dependent
+689,5,0,0.2,0.2,Increasing Promo Dependent
+698,10,0,0.2,0.2,Increasing Promo Dependent
+792,5,0,0.2,0.2,Increasing Promo Dependent
+785,5,0,0.2,0.2,Increasing Promo Dependent
+760,5,0,0.2,0.2,Increasing Promo Dependent
+857,5,0,0.2,0.2,Increasing Promo Dependent
+447,5,0,0.2,0.2,Increasing Promo Dependent
+486,5,0,0.2,0.2,Increasing Promo Dependent
+498,5,0,0.2,0.2,Increasing Promo Dependent
+521,5,0,0.2,0.2,Increasing Promo Dependent
+525,5,0,0.2,0.2,Increasing Promo Dependent
+539,5,0,0.2,0.2,Increasing Promo Dependent
+657,15,0,0.2,0.2,Increasing Promo Dependent
+574,5,0,0.2,0.2,Increasing Promo Dependent
+577,20,0,0.2,0.2,Increasing Promo Dependent
+262,5,0,0.2,0.2,Increasing Promo Dependent
+251,5,0,0.2,0.2,Increasing Promo Dependent
+246,5,0,0.2,0.2,Increasing Promo Dependent
+387,10,0,0.2,0.2,Increasing Promo Dependent
+373,5,0,0.2,0.2,Increasing Promo Dependent
+139,5,0,0.2,0.2,Increasing Promo Dependent
+171,5,0,0.2,0.2,Increasing Promo Dependent
+57,10,0,0.2,0.2,Increasing Promo Dependent
+8,5,0,0.2,0.2,Increasing Promo Dependent
+41,5,0,0.2,0.2,Increasing Promo Dependent
+1137,20,0,0.2,0.2,Increasing Promo Dependent
+1138,5,0,0.2,0.2,Increasing Promo Dependent
+1153,5,0,0.2,0.2,Increasing Promo Dependent
+1075,5,0,0.2,0.2,Increasing Promo Dependent
+885,5,0,0.2,0.2,Increasing Promo Dependent
+938,5,0,0.2,0.2,Increasing Promo Dependent
+1054,5,0,0.2,0.2,Increasing Promo Dependent
+1007,5,0,0.2,0.2,Increasing Promo Dependent
+1048,5,0,0.2,0.2,Increasing Promo Dependent
+1171,11,0,0.18,0.18,Increasing Promo Dependent
+21,11,0,0.18,0.18,Increasing Promo Dependent
+353,11,0,0.18,0.18,Increasing Promo Dependent
+427,11,0,0.18,0.18,Increasing Promo Dependent
+871,22,0,0.18,0.18,Increasing Promo Dependent
+789,11,0,0.18,0.18,Increasing Promo Dependent
+788,6,0,0.17,0.17,Increasing Promo Dependent
+841,6,0,0.17,0.17,Increasing Promo Dependent
+754,6,0,0.17,0.17,Increasing Promo Dependent
+591,12,0,0.17,0.17,Increasing Promo Dependent
+647,6,0,0.17,0.17,Increasing Promo Dependent
+622,6,0,0.17,0.17,Increasing Promo Dependent
+640,6,0,0.17,0.17,Increasing Promo Dependent
+493,18,0,0.17,0.17,Increasing Promo Dependent
+404,12,0,0.17,0.17,Increasing Promo Dependent
+357,6,0,0.17,0.17,Increasing Promo Dependent
+374,6,0,0.17,0.17,Increasing Promo Dependent
+338,6,0,0.17,0.17,Increasing Promo Dependent
+245,6,0,0.17,0.17,Increasing Promo Dependent
+271,6,0,0.17,0.17,Increasing Promo Dependent
+281,6,0,0.17,0.17,Increasing Promo Dependent
+47,6,0,0.17,0.17,Increasing Promo Dependent
+48,6,0,0.17,0.17,Increasing Promo Dependent
+31,6,0,0.17,0.17,Increasing Promo Dependent
+105,6,0,0.17,0.17,Increasing Promo Dependent
+66,18,0,0.17,0.17,Increasing Promo Dependent
+145,6,0,0.17,0.17,Increasing Promo Dependent
+148,6,0,0.17,0.17,Increasing Promo Dependent
+157,12,0,0.17,0.17,Increasing Promo Dependent
+189,35,0,0.17,0.17,Increasing Promo Dependent
+1195,6,0,0.17,0.17,Increasing Promo Dependent
+1122,6,0,0.17,0.17,Increasing Promo Dependent
+1072,6,0,0.17,0.17,Increasing Promo Dependent
+952,6,0,0.17,0.17,Increasing Promo Dependent
+895,6,0,0.17,0.17,Increasing Promo Dependent
+1199,19,0,0.16,0.16,Increasing Promo Dependent
+1188,13,0,0.15,0.15,Increasing Promo Dependent
+1126,13,0,0.15,0.15,Increasing Promo Dependent
+966,13,0,0.15,0.15,Increasing Promo Dependent
+1047,13,0,0.15,0.15,Increasing Promo Dependent
+517,13,0,0.15,0.15,Increasing Promo Dependent
+528,13,0,0.15,0.15,Increasing Promo Dependent
+509,13,0,0.15,0.15,Increasing Promo Dependent
+592,13,0,0.15,0.15,Increasing Promo Dependent
+558,13,0,0.15,0.15,Increasing Promo Dependent
+566,7,0,0.14,0.14,Increasing Promo Dependent
+516,21,0,0.14,0.14,Increasing Promo Dependent
+485,21,0,0.14,0.14,Increasing Promo Dependent
+459,7,0,0.14,0.14,Increasing Promo Dependent
+680,14,0,0.14,0.14,Increasing Promo Dependent
+872,7,0,0.14,0.14,Increasing Promo Dependent
+881,7,0,0.14,0.14,Increasing Promo Dependent
+200,7,0,0.14,0.14,Increasing Promo Dependent
+88,7,0,0.14,0.14,Increasing Promo Dependent
+50,7,0,0.14,0.14,Increasing Promo Dependent
+53,7,0,0.14,0.14,Increasing Promo Dependent
+282,7,0,0.14,0.14,Increasing Promo Dependent
+344,7,0,0.14,0.14,Increasing Promo Dependent
+345,7,0,0.14,0.14,Increasing Promo Dependent
+405,14,0,0.14,0.14,Increasing Promo Dependent
+1036,21,0,0.14,0.14,Increasing Promo Dependent
+1012,7,0,0.14,0.14,Increasing Promo Dependent
+997,7,0,0.14,0.14,Increasing Promo Dependent
+1000,7,0,0.14,0.14,Increasing Promo Dependent
+1006,14,0,0.14,0.14,Increasing Promo Dependent
+946,14,0,0.14,0.14,Increasing Promo Dependent
+1109,7,0,0.14,0.14,Increasing Promo Dependent
+1192,16,0,0.13,0.13,Increasing Promo Dependent
+943,16,0,0.13,0.13,Increasing Promo Dependent
+891,8,0,0.13,0.13,Increasing Promo Dependent
+1045,8,0,0.13,0.13,Increasing Promo Dependent
+1051,15,0,0.13,0.13,Increasing Promo Dependent
+420,8,0,0.13,0.13,Increasing Promo Dependent
+421,16,0,0.13,0.13,Increasing Promo Dependent
+412,8,0,0.13,0.13,Increasing Promo Dependent
+417,15,0,0.13,0.13,Increasing Promo Dependent
+379,8,0,0.13,0.13,Increasing Promo Dependent
+252,15,0,0.13,0.13,Increasing Promo Dependent
+259,15,0,0.13,0.13,Increasing Promo Dependent
+18,16,0,0.13,0.13,Increasing Promo Dependent
+22,8,0,0.13,0.13,Increasing Promo Dependent
+5,8,0,0.13,0.13,Increasing Promo Dependent
+93,23,0,0.13,0.13,Increasing Promo Dependent
+91,8,0,0.13,0.13,Increasing Promo Dependent
+215,8,0,0.13,0.13,Increasing Promo Dependent
+802,8,0,0.13,0.13,Increasing Promo Dependent
+844,16,0,0.13,0.13,Increasing Promo Dependent
+849,8,0,0.13,0.13,Increasing Promo Dependent
+794,8,0,0.13,0.13,Increasing Promo Dependent
+765,16,0,0.13,0.13,Increasing Promo Dependent
+733,8,0,0.13,0.13,Increasing Promo Dependent
+740,16,0,0.13,0.13,Increasing Promo Dependent
+506,8,0,0.13,0.13,Increasing Promo Dependent
+501,8,0,0.13,0.13,Increasing Promo Dependent
+600,8,0,0.13,0.13,Increasing Promo Dependent
+322,17,0,0.12,0.12,Increasing Promo Dependent
+1067,17,0,0.12,0.12,Increasing Promo Dependent
+1073,9,0,0.11,0.11,Increasing Promo Dependent
+1062,9,0,0.11,0.11,Increasing Promo Dependent
+1055,9,0,0.11,0.11,Increasing Promo Dependent
+986,9,0,0.11,0.11,Increasing Promo Dependent
+1016,9,0,0.11,0.11,Increasing Promo Dependent
+960,9,0,0.11,0.11,Increasing Promo Dependent
+1185,9,0,0.11,0.11,Increasing Promo Dependent
+1161,9,0,0.11,0.11,Increasing Promo Dependent
+319,9,0,0.11,0.11,Increasing Promo Dependent
+301,9,0,0.11,0.11,Increasing Promo Dependent
+255,9,0,0.11,0.11,Increasing Promo Dependent
+226,9,0,0.11,0.11,Increasing Promo Dependent
+220,9,0,0.11,0.11,Increasing Promo Dependent
+177,9,0,0.11,0.11,Increasing Promo Dependent
+118,9,0,0.11,0.11,Increasing Promo Dependent
+586,9,0,0.11,0.11,Increasing Promo Dependent
+567,9,0,0.11,0.11,Increasing Promo Dependent
+548,9,0,0.11,0.11,Increasing Promo Dependent
+453,9,0,0.11,0.11,Increasing Promo Dependent
+749,9,0,0.11,0.11,Increasing Promo Dependent
+727,9,0,0.11,0.11,Increasing Promo Dependent
+729,9,0,0.11,0.11,Increasing Promo Dependent
+781,9,0,0.11,0.11,Increasing Promo Dependent
+829,9,0,0.11,0.11,Increasing Promo Dependent
+848,9,0,0.11,0.11,Increasing Promo Dependent
+865,9,0,0.11,0.11,Increasing Promo Dependent
+751,10,0,0.1,0.1,Increasing Promo Dependent
+604,20,0,0.1,0.1,Increasing Promo Dependent
+121,10,0,0.1,0.1,Increasing Promo Dependent
+170,10,0,0.1,0.1,Increasing Promo Dependent
+56,10,0,0.1,0.1,Increasing Promo Dependent
+24,29,0,0.1,0.1,Increasing Promo Dependent
+296,20,0,0.1,0.1,Increasing Promo Dependent
+325,10,0,0.1,0.1,Increasing Promo Dependent
+305,10,0,0.1,0.1,Increasing Promo Dependent
+418,10,0,0.1,0.1,Increasing Promo Dependent
+1151,20,0,0.1,0.1,Increasing Promo Dependent
+1131,10,0,0.1,0.1,Increasing Promo Dependent
+1163,10,0,0.1,0.1,Increasing Promo Dependent
+955,20,0,0.1,0.1,Increasing Promo Dependent
+953,10,0,0.1,0.1,Increasing Promo Dependent
+892,10,0,0.1,0.1,Increasing Promo Dependent
+908,10,0,0.1,0.1,Increasing Promo Dependent
+990,10,0,0.1,0.1,Increasing Promo Dependent
+957,11,0,0.09,0.09,Increasing Promo Dependent
+1160,11,0,0.09,0.09,Increasing Promo Dependent
+1121,11,0,0.09,0.09,Increasing Promo Dependent
+1087,11,0,0.09,0.09,Increasing Promo Dependent
+386,11,0,0.09,0.09,Increasing Promo Dependent
+399,11,0,0.09,0.09,Increasing Promo Dependent
+342,11,0,0.09,0.09,Increasing Promo Dependent
+230,11,0,0.09,0.09,Increasing Promo Dependent
+183,11,0,0.09,0.09,Increasing Promo Dependent
+573,11,0,0.09,0.09,Increasing Promo Dependent
+491,11,0,0.09,0.09,Increasing Promo Dependent
+537,11,0,0.09,0.09,Increasing Promo Dependent
+487,13,0,0.08,0.08,Increasing Promo Dependent
+454,12,0,0.08,0.08,Increasing Promo Dependent
+585,12,0,0.08,0.08,Increasing Promo Dependent
+637,13,0,0.08,0.08,Increasing Promo Dependent
+769,12,0,0.08,0.08,Increasing Promo Dependent
+723,12,0,0.08,0.08,Increasing Promo Dependent
+825,13,0,0.08,0.08,Increasing Promo Dependent
+791,26,0,0.08,0.08,Increasing Promo Dependent
+115,12,0,0.08,0.08,Increasing Promo Dependent
+137,12,0,0.08,0.08,Increasing Promo Dependent
+61,13,0,0.08,0.08,Increasing Promo Dependent
+232,13,0,0.08,0.08,Increasing Promo Dependent
+378,13,0,0.08,0.08,Increasing Promo Dependent
+435,13,0,0.08,0.08,Increasing Promo Dependent
+936,12,0,0.08,0.08,Increasing Promo Dependent
+904,12,0,0.08,0.08,Increasing Promo Dependent
+906,13,0,0.08,0.08,Increasing Promo Dependent
+915,12,0,0.08,0.08,Increasing Promo Dependent
+1015,13,0,0.08,0.08,Increasing Promo Dependent
+1056,13,0,0.08,0.08,Increasing Promo Dependent
+1010,14,0,0.07,0.07,Increasing Promo Dependent
+1023,14,0,0.07,0.07,Increasing Promo Dependent
+1004,15,0,0.07,0.07,Increasing Promo Dependent
+901,15,0,0.07,0.07,Increasing Promo Dependent
+935,14,0,0.07,0.07,Increasing Promo Dependent
+76,15,0,0.07,0.07,Increasing Promo Dependent
+103,15,0,0.07,0.07,Increasing Promo Dependent
+787,14,0,0.07,0.07,Increasing Promo Dependent
+681,15,0,0.07,0.07,Increasing Promo Dependent
+534,14,0,0.07,0.07,Increasing Promo Dependent
+457,16,0,0.06,0.06,Increasing Promo Dependent
+471,17,0,0.06,0.06,Increasing Promo Dependent
+638,17,0,0.06,0.06,Increasing Promo Dependent
+738,16,0,0.06,0.06,Increasing Promo Dependent
+224,16,0,0.06,0.06,Increasing Promo Dependent
+209,17,0,0.06,0.06,Increasing Promo Dependent
+276,16,0,0.06,0.06,Increasing Promo Dependent
+1063,16,0,0.06,0.06,Increasing Promo Dependent
+1095,16,0,0.06,0.06,Increasing Promo Dependent
+747,22,0,0.05,0.05,Increasing Promo Dependent
+801,20,0,0.05,0.05,Increasing Promo Dependent
+736,24,0,0.04,0.04,Increasing Promo Dependent
+737,5,0,0,0,Stable
+739,5,0,0,0,Stable
+735,8,0,0,0,Stable
+748,5,0,0,0,Stable
+742,6,0,0,0,Stable
+744,3,0,0,0,Stable
+745,17,0,0,0,Stable
+746,3,0,0,0,Stable
+763,7,0,0,0,Stable
+753,16,0,0,0,Stable
+756,10,0,0,0,Stable
+780,14,0,0,0,Stable
+776,7,0,0,0,Stable
+682,5,0,0,0,Stable
+672,7,0,0,0,Stable
+673,7,0,0,0,Stable
+674,3,0,0,0,Stable
+675,7,0,0,0,Stable
+676,6,0,0,0,Stable
+677,12,0,0,0,Stable
+679,6,0,0,0,Stable
+699,5,0,0,0,Stable
+700,5,0,0,0,Stable
+702,5,0,0,0,Stable
+690,11,0,0,0,Stable
+691,5,0,0,0,Stable
+664,4,0,0,0,Stable
+665,14,0,0,0,Stable
+724,9,0,0,0,Stable
+720,3,0,0,0,Stable
+721,11,0,0,0,Stable
+731,4,0,0,0,Stable
+732,6,0,0,0,Stable
+728,12,0,0,0,Stable
+709,3,0,0,0,Stable
+710,4,0,0,0,Stable
+711,4,0,0,0,Stable
+712,3,0,0,0,Stable
+715,11,0,0,0,Stable
+694,7,0,0,0,Stable
+704,5,0,0,0,Stable
+707,5,0,0,0,Stable
+795,6,0,0,0,Stable
+782,6,0,0,0,Stable
+783,4,0,0,0,Stable
+790,9,0,0,0,Stable
+830,5,0,0,0,Stable
+832,5,0,0,0,Stable
+834,3,0,0,0,Stable
+835,3,0,0,0,Stable
+807,12,0,0,0,Stable
+810,4,0,0,0,Stable
+811,4,0,0,0,Stable
+812,5,0,0,0,Stable
+813,16,0,0,0,Stable
+817,7,0,0,0,Stable
+818,6,0,0,0,Stable
+820,13,0,0,0,Stable
+822,8,0,0,0,Stable
+823,9,0,0,0,Stable
+827,13,0,0,0,Stable
+843,11,0,0,0,Stable
+850,14,0,0,0,Stable
+851,4,0,0,0,Stable
+859,7,0,0,0,Stable
+860,11,0,0,0,Stable
+864,4,0,0,0,Stable
+855,3,0,0,0,Stable
+873,11,0,0,0,Stable
+875,10,0,0,0,Stable
+876,4,0,0,0,Stable
+877,3,0,0,0,Stable
+878,5,0,0,0,Stable
+868,9,0,0,0,Stable
+880,3,0,0,0,Stable
+882,6,0,0,0,Stable
+883,7,0,0,0,Stable
+639,3,0,0,0,Stable
+642,3,0,0,0,Stable
+626,6,0,0,0,Stable
+628,4,0,0,0,Stable
+630,9,0,0,0,Stable
+633,7,0,0,0,Stable
+634,3,0,0,0,Stable
+635,9,0,0,0,Stable
+609,7,0,0,0,Stable
+615,12,0,0,0,Stable
+616,3,0,0,0,Stable
+621,3,0,0,0,Stable
+648,5,0,0,0,Stable
+650,12,0,0,0,Stable
+651,11,0,0,0,Stable
+653,12,0,0,0,Stable
+654,4,0,0,0,Stable
+655,5,0,0,0,Stable
+658,4,0,0,0,Stable
+659,5,0,0,0,Stable
+660,8,0,0,0,Stable
+661,10,0,0,0,Stable
+668,9,0,0,0,Stable
+669,5,0,0,0,Stable
+576,9,0,0,0,Stable
+568,7,0,0,0,Stable
+570,4,0,0,0,Stable
+571,3,0,0,0,Stable
+572,4,0,0,0,Stable
+556,4,0,0,0,Stable
+560,11,0,0,0,Stable
+564,8,0,0,0,Stable
+565,13,0,0,0,Stable
+607,4,0,0,0,Stable
+603,6,0,0,0,Stable
+587,8,0,0,0,Stable
+590,3,0,0,0,Stable
+597,3,0,0,0,Stable
+599,7,0,0,0,Stable
+593,4,0,0,0,Stable
+578,7,0,0,0,Stable
+579,9,0,0,0,Stable
+581,3,0,0,0,Stable
+582,4,0,0,0,Stable
+460,13,0,0,0,Stable
+462,3,0,0,0,Stable
+464,5,0,0,0,Stable
+468,3,0,0,0,Stable
+449,6,0,0,0,Stable
+452,7,0,0,0,Stable
+489,6,0,0,0,Stable
+482,8,0,0,0,Stable
+483,7,0,0,0,Stable
+476,3,0,0,0,Stable
+477,7,0,0,0,Stable
+492,3,0,0,0,Stable
+496,4,0,0,0,Stable
+497,7,0,0,0,Stable
+532,4,0,0,0,Stable
+546,9,0,0,0,Stable
+550,16,0,0,0,Stable
+552,3,0,0,0,Stable
+540,10,0,0,0,Stable
+542,3,0,0,0,Stable
+502,3,0,0,0,Stable
+503,16,0,0,0,Stable
+505,4,0,0,0,Stable
+508,4,0,0,0,Stable
+510,3,0,0,0,Stable
+500,4,0,0,0,Stable
+513,4,0,0,0,Stable
+514,3,0,0,0,Stable
+526,5,0,0,0,Stable
+527,3,0,0,0,Stable
+524,6,0,0,0,Stable
+277,11,0,0,0,Stable
+258,6,0,0,0,Stable
+280,6,0,0,0,Stable
+285,16,0,0,0,Stable
+286,4,0,0,0,Stable
+287,8,0,0,0,Stable
+298,7,0,0,0,Stable
+299,3,0,0,0,Stable
+300,9,0,0,0,Stable
+290,5,0,0,0,Stable
+306,5,0,0,0,Stable
+307,12,0,0,0,Stable
+308,3,0,0,0,Stable
+309,8,0,0,0,Stable
+294,3,0,0,0,Stable
+304,9,0,0,0,Stable
+323,5,0,0,0,Stable
+313,3,0,0,0,Stable
+234,5,0,0,0,Stable
+237,7,0,0,0,Stable
+238,7,0,0,0,Stable
+231,12,0,0,0,Stable
+227,3,0,0,0,Stable
+229,18,0,0,0,Stable
+250,8,0,0,0,Stable
+248,8,0,0,0,Stable
+242,5,0,0,0,Stable
+256,4,0,0,0,Stable
+253,6,0,0,0,Stable
+254,11,0,0,0,Stable
+273,5,0,0,0,Stable
+274,5,0,0,0,Stable
+264,10,0,0,0,Stable
+270,12,0,0,0,Stable
+437,19,0,0,0,Stable
+439,14,0,0,0,Stable
+441,7,0,0,0,Stable
+442,14,0,0,0,Stable
+429,15,0,0,0,Stable
+430,3,0,0,0,Stable
+431,10,0,0,0,Stable
+432,6,0,0,0,Stable
+433,6,0,0,0,Stable
+419,8,0,0,0,Stable
+414,11,0,0,0,Stable
+425,3,0,0,0,Stable
+376,9,0,0,0,Stable
+390,6,0,0,0,Stable
+400,4,0,0,0,Stable
+395,8,0,0,0,Stable
+402,10,0,0,0,Stable
+406,7,0,0,0,Stable
+409,7,0,0,0,Stable
+410,4,0,0,0,Stable
+411,6,0,0,0,Stable
+348,6,0,0,0,Stable
+349,12,0,0,0,Stable
+350,7,0,0,0,Stable
+351,3,0,0,0,Stable
+339,7,0,0,0,Stable
+340,3,0,0,0,Stable
+341,4,0,0,0,Stable
+332,6,0,0,0,Stable
+333,6,0,0,0,Stable
+334,8,0,0,0,Stable
+336,13,0,0,0,Stable
+381,4,0,0,0,Stable
+382,6,0,0,0,Stable
+384,13,0,0,0,Stable
+385,6,0,0,0,Stable
+360,5,0,0,0,Stable
+362,12,0,0,0,Stable
+358,6,0,0,0,Stable
+354,3,0,0,0,Stable
+355,3,0,0,0,Stable
+364,4,0,0,0,Stable
+365,3,0,0,0,Stable
+366,3,0,0,0,Stable
+368,4,0,0,0,Stable
+369,7,0,0,0,Stable
+370,6,0,0,0,Stable
+210,10,0,0,0,Stable
+213,17,0,0,0,Stable
+214,4,0,0,0,Stable
+202,3,0,0,0,Stable
+204,14,0,0,0,Stable
+205,5,0,0,0,Stable
+207,7,0,0,0,Stable
+182,4,0,0,0,Stable
+217,13,0,0,0,Stable
+222,3,0,0,0,Stable
+223,3,0,0,0,Stable
+187,12,0,0,0,Stable
+188,3,0,0,0,Stable
+190,3,0,0,0,Stable
+193,6,0,0,0,Stable
+194,3,0,0,0,Stable
+195,8,0,0,0,Stable
+198,6,0,0,0,Stable
+176,7,0,0,0,Stable
+178,4,0,0,0,Stable
+180,4,0,0,0,Stable
+112,25,0,0,0,Stable
+141,8,0,0,0,Stable
+132,12,0,0,0,Stable
+134,17,0,0,0,Stable
+135,4,0,0,0,Stable
+117,5,0,0,0,Stable
+119,10,0,0,0,Stable
+120,3,0,0,0,Stable
+122,4,0,0,0,Stable
+125,6,0,0,0,Stable
+127,5,0,0,0,Stable
+128,4,0,0,0,Stable
+129,4,0,0,0,Stable
+158,7,0,0,0,Stable
+161,4,0,0,0,Stable
+162,11,0,0,0,Stable
+149,7,0,0,0,Stable
+150,5,0,0,0,Stable
+151,3,0,0,0,Stable
+172,9,0,0,0,Stable
+154,7,0,0,0,Stable
+155,7,0,0,0,Stable
+165,12,0,0,0,Stable
+166,4,0,0,0,Stable
+167,8,0,0,0,Stable
+168,4,0,0,0,Stable
+169,5,0,0,0,Stable
+104,7,0,0,0,Stable
+92,14,0,0,0,Stable
+107,6,0,0,0,Stable
+94,6,0,0,0,Stable
+95,3,0,0,0,Stable
+96,13,0,0,0,Stable
+97,3,0,0,0,Stable
+89,5,0,0,0,Stable
+90,4,0,0,0,Stable
+70,8,0,0,0,Stable
+71,4,0,0,0,Stable
+72,3,0,0,0,Stable
+62,6,0,0,0,Stable
+58,4,0,0,0,Stable
+59,5,0,0,0,Stable
+60,3,0,0,0,Stable
+26,4,0,0,0,Stable
+7,4,0,0,0,Stable
+3,5,0,0,0,Stable
+4,8,0,0,0,Stable
+9,3,0,0,0,Stable
+10,6,0,0,0,Stable
+12,4,0,0,0,Stable
+13,4,0,0,0,Stable
+14,3,0,0,0,Stable
+15,16,0,0,0,Stable
+16,8,0,0,0,Stable
+17,8,0,0,0,Stable
+19,3,0,0,0,Stable
+20,6,0,0,0,Stable
+37,5,0,0,0,Stable
+38,5,0,0,0,Stable
+39,11,0,0,0,Stable
+33,8,0,0,0,Stable
+34,5,0,0,0,Stable
+54,11,0,0,0,Stable
+55,5,0,0,0,Stable
+52,8,0,0,0,Stable
+49,3,0,0,0,Stable
+43,3,0,0,0,Stable
+44,13,0,0,0,Stable
+1096,3,0,0,0,Stable
+1097,6,0,0,0,Stable
+1098,4,0,0,0,Stable
+1088,3,0,0,0,Stable
+1102,11,0,0,0,Stable
+1110,11,0,0,0,Stable
+1112,3,0,0,0,Stable
+1113,4,0,0,0,Stable
+1114,8,0,0,0,Stable
+1105,5,0,0,0,Stable
+1066,9,0,0,0,Stable
+1108,4,0,0,0,Stable
+1076,5,0,0,0,Stable
+1077,10,0,0,0,Stable
+1079,6,0,0,0,Stable
+1080,5,0,0,0,Stable
+1090,3,0,0,0,Stable
+1092,6,0,0,0,Stable
+1094,4,0,0,0,Stable
+1083,4,0,0,0,Stable
+1084,5,0,0,0,Stable
+1085,5,0,0,0,Stable
+1155,3,0,0,0,Stable
+1162,5,0,0,0,Stable
+1157,5,0,0,0,Stable
+1175,3,0,0,0,Stable
+1176,7,0,0,0,Stable
+1177,8,0,0,0,Stable
+1178,5,0,0,0,Stable
+1179,5,0,0,0,Stable
+1180,5,0,0,0,Stable
+1181,3,0,0,0,Stable
+1182,3,0,0,0,Stable
+1132,6,0,0,0,Stable
+1134,18,0,0,0,Stable
+1135,5,0,0,0,Stable
+1127,6,0,0,0,Stable
+1116,6,0,0,0,Stable
+1120,4,0,0,0,Stable
+1129,4,0,0,0,Stable
+1130,3,0,0,0,Stable
+1141,8,0,0,0,Stable
+1145,4,0,0,0,Stable
+1148,9,0,0,0,Stable
+1149,3,0,0,0,Stable
+1164,13,0,0,0,Stable
+1166,6,0,0,0,Stable
+1167,10,0,0,0,Stable
+1168,11,0,0,0,Stable
+1170,13,0,0,0,Stable
+1191,7,0,0,0,Stable
+1196,3,0,0,0,Stable
+1197,5,0,0,0,Stable
+1198,13,0,0,0,Stable
+1200,9,0,0,0,Stable
+1194,9,0,0,0,Stable
+1064,7,0,0,0,Stable
+1068,5,0,0,0,Stable
+1069,13,0,0,0,Stable
+1057,3,0,0,0,Stable
+1058,4,0,0,0,Stable
+1040,3,0,0,0,Stable
+1050,7,0,0,0,Stable
+1031,6,0,0,0,Stable
+1032,5,0,0,0,Stable
+1033,3,0,0,0,Stable
+1035,3,0,0,0,Stable
+1003,5,0,0,0,Stable
+998,23,0,0,0,Stable
+992,9,0,0,0,Stable
+995,3,0,0,0,Stable
+996,3,0,0,0,Stable
+974,13,0,0,0,Stable
+985,4,0,0,0,Stable
+1024,4,0,0,0,Stable
+1025,4,0,0,0,Stable
+1026,4,0,0,0,Stable
+1029,3,0,0,0,Stable
+1017,5,0,0,0,Stable
+1018,5,0,0,0,Stable
+1022,4,0,0,0,Stable
+1009,4,0,0,0,Stable
+934,14,0,0,0,Stable
+925,8,0,0,0,Stable
+926,3,0,0,0,Stable
+954,4,0,0,0,Stable
+949,4,0,0,0,Stable
+950,15,0,0,0,Stable
+947,7,0,0,0,Stable
+956,12,0,0,0,Stable
+962,4,0,0,0,Stable
+963,6,0,0,0,Stable
+965,13,0,0,0,Stable
+968,7,0,0,0,Stable
+970,4,0,0,0,Stable
+971,17,0,0,0,Stable
+972,6,0,0,0,Stable
+976,3,0,0,0,Stable
+980,6,0,0,0,Stable
+982,8,0,0,0,Stable
+903,12,0,0,0,Stable
+896,5,0,0,0,Stable
+897,3,0,0,0,Stable
+889,7,0,0,0,Stable
+890,5,0,0,0,Stable
+893,8,0,0,0,Stable
+894,5,0,0,0,Stable
+886,7,0,0,0,Stable
+917,4,0,0,0,Stable
+919,3,0,0,0,Stable
+928,3,0,0,0,Stable
+929,3,0,0,0,Stable
+930,7,0,0,0,Stable
+931,4,0,0,0,Stable
+907,6,0,0,0,Stable
+910,6,0,0,0,Stable
+911,8,0,0,0,Stable
+914,4,0,0,0,Stable
+472,4,1,0.75,-0.25,Decreasingly Promo Dependent
+302,3,1,0.67,-0.33,Decreasingly Promo Dependent
+1013,5,1,0.6,-0.4,Decreasingly Promo Dependent
+312,4,1,0.5,-0.5,Decreasingly Promo Dependent
+608,4,1,0.5,-0.5,Decreasingly Promo Dependent
+562,6,1,0.5,-0.5,Decreasingly Promo Dependent
+641,9,1,0.44,-0.56,Decreasingly Promo Dependent
+478,10,1,0.4,-0.6,Decreasingly Promo Dependent
+422,5,1,0.4,-0.6,Decreasingly Promo Dependent
+1044,5,1,0.4,-0.6,Decreasingly Promo Dependent
+163,8,1,0.38,-0.62,Decreasingly Promo Dependent
+218,3,1,0.33,-0.67,Decreasingly Promo Dependent
+396,3,1,0.33,-0.67,Decreasingly Promo Dependent
+398,6,1,0.33,-0.67,Decreasingly Promo Dependent
+278,3,1,0.33,-0.67,Decreasingly Promo Dependent
+314,3,1,0.33,-0.67,Decreasingly Promo Dependent
+327,9,1,0.33,-0.67,Decreasingly Promo Dependent
+311,6,1,0.33,-0.67,Decreasingly Promo Dependent
+473,6,1,0.33,-0.67,Decreasingly Promo Dependent
+563,3,1,0.33,-0.67,Decreasingly Promo Dependent
+559,3,1,0.33,-0.67,Decreasingly Promo Dependent
+799,3,1,0.33,-0.67,Decreasingly Promo Dependent
+697,12,1,0.33,-0.67,Decreasingly Promo Dependent
+778,3,1,0.33,-0.67,Decreasingly Promo Dependent
+734,6,1,0.33,-0.67,Decreasingly Promo Dependent
+1038,3,1,0.33,-0.67,Decreasingly Promo Dependent
+1052,3,1,0.33,-0.67,Decreasingly Promo Dependent
+1061,6,1,0.33,-0.67,Decreasingly Promo Dependent
+942,3,1,0.33,-0.67,Decreasingly Promo Dependent
+975,6,1,0.33,-0.67,Decreasingly Promo Dependent
+932,3,1,0.33,-0.67,Decreasingly Promo Dependent
+887,6,1,0.33,-0.67,Decreasingly Promo Dependent
+973,3,1,0.33,-0.67,Decreasingly Promo Dependent
+958,3,1,0.33,-0.67,Decreasingly Promo Dependent
+1156,6,1,0.33,-0.67,Decreasingly Promo Dependent
+1082,6,1,0.33,-0.67,Decreasingly Promo Dependent
+1078,3,1,0.33,-0.67,Decreasingly Promo Dependent
+1159,7,1,0.29,-0.71,Decreasingly Promo Dependent
+939,7,1,0.29,-0.71,Decreasingly Promo Dependent
+545,7,1,0.29,-0.71,Decreasingly Promo Dependent
+247,11,1,0.27,-0.73,Decreasingly Promo Dependent
+944,11,1,0.27,-0.73,Decreasingly Promo Dependent
+888,11,1,0.27,-0.73,Decreasingly Promo Dependent
+983,4,1,0.25,-0.75,Decreasingly Promo Dependent
+991,8,1,0.25,-0.75,Decreasingly Promo Dependent
+1001,4,1,0.25,-0.75,Decreasingly Promo Dependent
+1144,4,1,0.25,-0.75,Decreasingly Promo Dependent
+1107,4,1,0.25,-0.75,Decreasingly Promo Dependent
+1101,4,1,0.25,-0.75,Decreasingly Promo Dependent
+272,4,1,0.25,-0.75,Decreasingly Promo Dependent
+35,4,1,0.25,-0.75,Decreasingly Promo Dependent
+531,4,1,0.25,-0.75,Decreasingly Promo Dependent
+595,4,1,0.25,-0.75,Decreasingly Promo Dependent
+643,4,1,0.25,-0.75,Decreasingly Promo Dependent
+670,4,1,0.25,-0.75,Decreasingly Promo Dependent
+772,4,1,0.25,-0.75,Decreasingly Promo Dependent
+836,16,1,0.25,-0.75,Decreasingly Promo Dependent
+845,4,1,0.25,-0.75,Decreasingly Promo Dependent
+847,9,1,0.22,-0.78,Decreasingly Promo Dependent
+331,9,1,0.22,-0.78,Decreasingly Promo Dependent
+1074,14,1,0.21,-0.79,Decreasingly Promo Dependent
+1011,5,1,0.2,-0.8,Decreasingly Promo Dependent
+921,10,1,0.2,-0.8,Decreasingly Promo Dependent
+905,10,1,0.2,-0.8,Decreasingly Promo Dependent
+401,10,1,0.2,-0.8,Decreasingly Promo Dependent
+181,5,1,0.2,-0.8,Decreasingly Promo Dependent
+184,5,1,0.2,-0.8,Decreasingly Promo Dependent
+838,5,1,0.2,-0.8,Decreasingly Promo Dependent
+775,5,1,0.2,-0.8,Decreasingly Promo Dependent
+683,16,1,0.19,-0.81,Decreasingly Promo Dependent
+130,16,1,0.19,-0.81,Decreasingly Promo Dependent
+394,16,1,0.19,-0.81,Decreasingly Promo Dependent
+98,11,1,0.18,-0.82,Decreasingly Promo Dependent
+109,17,1,0.18,-0.82,Decreasingly Promo Dependent
+111,6,1,0.17,-0.83,Decreasingly Promo Dependent
+80,6,1,0.17,-0.83,Decreasingly Promo Dependent
+82,6,1,0.17,-0.83,Decreasingly Promo Dependent
+83,6,1,0.17,-0.83,Decreasingly Promo Dependent
+363,18,1,0.17,-0.83,Decreasingly Promo Dependent
+266,12,1,0.17,-0.83,Decreasingly Promo Dependent
+804,12,1,0.17,-0.83,Decreasingly Promo Dependent
+662,6,1,0.17,-0.83,Decreasingly Promo Dependent
+481,6,1,0.17,-0.83,Decreasingly Promo Dependent
+1030,6,1,0.17,-0.83,Decreasingly Promo Dependent
+1140,6,1,0.17,-0.83,Decreasingly Promo Dependent
+948,7,1,0.14,-0.86,Decreasingly Promo Dependent
+499,7,1,0.14,-0.86,Decreasingly Promo Dependent
+884,7,1,0.14,-0.86,Decreasingly Promo Dependent
+703,7,1,0.14,-0.86,Decreasingly Promo Dependent
+719,28,1,0.14,-0.86,Decreasingly Promo Dependent
+260,7,1,0.14,-0.86,Decreasingly Promo Dependent
+292,7,1,0.14,-0.86,Decreasingly Promo Dependent
+2,7,1,0.14,-0.86,Decreasingly Promo Dependent
+153,7,1,0.14,-0.86,Decreasingly Promo Dependent
+257,16,1,0.13,-0.87,Decreasingly Promo Dependent
+375,16,1,0.13,-0.87,Decreasingly Promo Dependent
+434,8,1,0.13,-0.87,Decreasingly Promo Dependent
+867,15,1,0.13,-0.87,Decreasingly Promo Dependent
+533,8,1,0.13,-0.87,Decreasingly Promo Dependent
+1065,16,1,0.13,-0.87,Decreasingly Promo Dependent
+1049,9,1,0.11,-0.89,Decreasingly Promo Dependent
+1086,9,1,0.11,-0.89,Decreasingly Promo Dependent
+758,9,1,0.11,-0.89,Decreasingly Promo Dependent
+359,9,1,0.11,-0.89,Decreasingly Promo Dependent
+275,18,1,0.11,-0.89,Decreasingly Promo Dependent
+249,9,1,0.11,-0.89,Decreasingly Promo Dependent
+288,18,1,0.11,-0.89,Decreasingly Promo Dependent
+133,10,1,0.1,-0.9,Decreasingly Promo Dependent
+1103,10,1,0.1,-0.9,Decreasingly Promo Dependent
+1043,10,1,0.1,-0.9,Decreasingly Promo Dependent
+1037,10,1,0.1,-0.9,Decreasingly Promo Dependent
+796,11,1,0.09,-0.91,Decreasingly Promo Dependent
+1005,17,1,0.06,-0.94,Decreasingly Promo Dependent

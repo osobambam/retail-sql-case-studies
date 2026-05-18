@@ -1,0 +1,11 @@
+﻿category,orderCount,isPromo,promo_dependence_pct,avg_full_price_margin,avg_realised_margin,discount_value,rank_num
+Footwear,1530,151,9.87,43.06,41.79,3858.61,1
+Pet Supplies,1238,120,9.69,39.3,37.86,1607.57,2
+Electronics,1107,107,9.67,28.13,26.65,8477.95,3
+Accessories,1769,167,9.44,55.49,54.58,1623.99,4
+Sports & Outdoors,1381,130,9.41,38.17,36.87,4090.6,5
+Beauty,2018,187,9.27,56.33,55.51,2397.17,6
+Apparel,2157,197,9.13,46.59,45.48,5474.18,7
+Books,1255,110,8.76,33.94,32.62,613.74,8
+Toys & Games,1164,100,8.59,43.56,42.68,1578.52,9
+Home & Kitchen,1618,131,8.1,42.41,41.3,5030.06,10
