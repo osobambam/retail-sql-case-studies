@@ -1,3 +1,10 @@
+-- =============================================
+-- Project : The Discount Trap
+-- Query   : 04 - Category Exposure
+-- Purpose : Category Categorization and Margins
+-- Author  : Ayodeji Oso
+-- =============================================
+
 with category_cte as(
 select 
 	   sum(quantity)quantity,
