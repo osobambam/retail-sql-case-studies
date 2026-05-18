@@ -1,3 +1,10 @@
+-- =============================================
+-- Project : Promo Trend Detection
+-- Query   : 03 - Promo Trend Detection
+-- Purpose : Determine If Customers are becoming increasingly dependent on promos
+-- Author  : Ayodeji Oso
+-- =============================================
+
 with windowsCTE as (
 select *,
 	case when promo_id is not null then 1
