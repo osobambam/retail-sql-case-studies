@@ -1,3 +1,10 @@
+-- =============================================
+-- Project : The Discount Trap
+-- Query   : 01 - Customer Classification
+-- Purpose : Categorise Customers based on Promo Dependence
+-- Author  : Ayodeji Oso
+-- =============================================
+
 with numOfPromo as (
 -- CTE to get number of promo orders
 select 
