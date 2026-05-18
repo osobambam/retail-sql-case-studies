@@ -1,3 +1,11 @@
+-- =============================================
+-- Project : The Discount Trap
+-- Query   : 02 - Segment Economics
+-- Purpose : Calculate revenue, COGS and gross
+--           margin by buyer segment
+-- Author  : Ayodeji Oso
+-- =============================================
+
 with numOfPromo as (
 -- CTE to get number of promo orders
 select 
